@@ -1,0 +1,57 @@
+object_display_order:
+  - title
+  - kanji
+  - romaji
+  - sutra
+  - year
+  - dimensions
+  - medium
+  - location
+  - artist
+object_list:
+  - id: 1
+    title: Giving a sermon with a single sound
+    kanji: "以一音説法"
+    romaji: Ichi on o motte seppo su
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+     - id: "1"   
+  - id: 2
+    title: The Direct mind is the Pure land
+    kanji: 直心是浄土
+    romaji: Jikishin kore jodo
+    sutra: Chapter x, paragraph xx
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+      - id: "2"
+  - id: 3
+    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
+    artist: Walker Evans
+    year: 1936
+    medium: Gelatin silver print
+    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
+    location: J. Paul Getty Museum
+    link: https://www.getty.edu/art/collection/objects/45651/
+    figure:
+      - id: "duo"
+  - id: 4
+    title: Burroughs Family, Hale County, Alabama
+    artist: Walker Evans
+    year: 1935
+    medium: Gelatin silver print
+    dimensions: 19.2 x 24.1 (7 <sup>9</sup>⁄<sub>16</sub> x 9 <sup>1</sup>⁄<sub>2</sub> in.)
+    location: J. Paul Getty Museum
+    link: https://www.getty.edu/art/collection/objects/34753/
+    figure:
+      - id: "family"

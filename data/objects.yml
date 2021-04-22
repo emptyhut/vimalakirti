@@ -1,49 +1,590 @@
 object_display_order:
-  - artist
+  - kanji
+  - romaji
+  - sutra
   - year
   - dimensions
   - medium
   - location
 object_list:
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
+    title: "Giving a sermon with a single sound"
+    kanji: "以一音説法"
+    romaji: Ichi on o motte seppo su
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
     dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/125690/
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
     figure:
-      - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
+    - id: "1"
   - id: 2
-    title: Pea Pickers, Nipomo, California
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print, with applied pigment
-    dimensions: 29.5 cm × 24.4 cm (7 <sup>11</sup>⁄<sub>16</sub> in × 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/130784/
+    title: "The Direct mind is the Pure land "
+    romaji: "Jikishin kore jodo "
+    kanji: "直心是浄土"
+    src: calligraphy/c5.1533.bookTitle.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
     figure:
-      - id: "pickers"
+    - id: "2"
   - id: 3
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/45651/
+    title: "Give rise to Bodhicitta"
+    romaji: "Ho Tsu BoDai Shin"
+    kanji: "發菩提心"
+    src: calligraphy/c7.1528.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
     figure:
-      - id: "duo"
+    - id: "3" 
   - id: 4
-    title: Burroughs Family, Hale County, Alabama
-    artist: Walker Evans
-    year: 1935
-    medium: Gelatin silver print
-    dimensions: 19.2 x 24.1 (7 <sup>9</sup>⁄<sub>16</sub> x 9 <sup>1</sup>⁄<sub>2</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/34753/
+    title: "Playing freely in the spiritual powers"
+    romaji: "Yuge jinzū "
+    kanji: "遊戯神通"
+    src: calligraphy/c6.1530.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
     figure:
-      - id: "family"
+    - id: "4"
+  - id: 5
+    title: "Mind in perfect tranquility"
+    romaji: "I Shin Zen Jaku "
+    kanji: "一 心 禅 寂 "
+    src: calligraphy/c1.1540.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "5"
+  - id: 6
+    title: "Let us reflect deeply on our true efforts and the efforts of those who brought us this food"
+    romaji: "Kō no tashō o hakari kano raisho o hakaru "
+    kanji: "計功多少量彼来処"
+    src: calligraphy/2014-10.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "6"
+  - id: 7
+    title: "Your many sins are like frost and dew"
+    romaji: "Shuzai wa sōro no gotoshi "
+    kanji: "衆罪如霜露"
+    src: calligraphy/2014-4.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "7"
+  - id: 8
+    title: "Wisdom, like the sun, melts them all away"
+    romaji: "Enichi kore o shōjo su "
+    kanji: "慧日消除之"
+    src: calligraphy/2014-6.jpg
+    label: "Note: couplet with id: 7"
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "8"
+  - id: 9
+    title: "Sit straight and contemplate the true form of things "
+    romaji: "Tanza shite jissō o nenzu "
+    kanji: "端坐念実相"
+    src: calligraphy/2014-7.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "9"
+  - id: 10
+    title: "Continuous mindfulness"
+    romaji: "Shōnen sōzoku "
+    kanji: "正念相続"
+    src: calligraphy/2014-12.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "10"
+  - id: 11
+    title: "Tranquil extinction is bodhi (Nirvana is awakening)"
+    romaji: "Jakumetsu kore bodai "
+    kanji: "寂滅是菩提"
+    src: calligraphy/2014-3.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "11"
+  - id: 12
+    title: "Straightforward mind is the place of practice "
+    romaji: "Jiki shin kore dōjō "
+    kanji: "直心是道場"
+    src: calligraphy/2014-8.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "12"
+  - id: 13
+    title: "Every step is the place of practice"
+    romaji: "Ho ho kore dōjō"
+    kanji: "歩歩是道場"
+    src: calligraphy/2014-11.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "13"
+  - id: 14
+    title: "Dharma joy, dharma ecstasy"
+    romaji: "Ho Ki Zen Etsu"
+    kanji: "法喜禅悦"
+    src: calligraphy/c1.1539.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "14"
+  - id: 15
+    title: "One lamp, ten thousand lamps, endless lamps "
+    romaji: "Ittō bantō mujintō "
+    kanji: "一灯萬灯無尽灯"
+    src: calligraphy/2014-2.jpg
+    figure:
+    - id: "15"
+  - id: 16
+    title: "Harmony, respect, purity, tranquility"
+    romaji: "Wa Kei Sei Jaku "
+    kanji: "和敬清寂"
+    src: calligraphy/2014-5.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "16"
+  - id: 17
+    title: "Though even a thousand eyes look, still it cannot be seen"
+    romaji: "Sengen miredomo miezu "
+    kanji: "千眼看不見"
+    src: calligraphy/2014-1.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "17"
+  - id: 18
+    title: "lllness has no form and cannot be seen"
+    romaji: "Yamai wa mugyō, miru bekarazu "
+    kanji: "病無形不可見"
+    src: calligraphy/2014-14.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "18"
+  - id: 19
+    title: "The four major elements have no master, and the body has no “I”"
+    romaji: "Shidai shu nashi, shin mo mata muga nari "
+    kanji: "四大無主身亦無我"
+    src: calligraphy/2014-13.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "19"
+  - id: 20
+    title: "Realize the nonbirth and nonextinction of all things."
+    romaji: "Mushō bōnin"
+    kanji: "無生法忍"
+    src: calligraphy/2015-5.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "20"
+  - id: 21
+    title: "Thought after thought is not separate from mind"
+    romaji: "Nen nen furi shi"
+    kanji: "念念不"
+    src: calligraphy/2015-10.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "21"
+  - id: 22
+    title: "Sentient beings are numberless, I vow to liberate them all"
+    romaji: "Shujō muhen seigan do"
+    kanji: "衆生無辺誓願度"
+    src: calligraphy/2015-7.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com  
+    figure:
+    - id: "22"
+  - id: 23
+    title: "To enter the stage of the Tathagata in a single leap "
+    romaji: "Icchō jikinyū nyoraiji"
+    kanji: "一超直入如来地"
+    src: calligraphy/2015-6.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "23"
+  - id: 24
+    title: "Seek enlightenment and liberate sentient beings"
+    romaji: "Gubodai Keshujō "
+    kanji: "求菩提化衆生"
+    src: calligraphy/2015-9.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "24"
+  - id: 25
+    title: "Empty-handed, I hold a spade; walking, I ride an ox "
+    romaji: "Kūshu ni shite jotō o toru "
+    kanji: "空手把鋤"
+    src: calligraphy/2015-11.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "25"
+  - id: 26
+    title: "Be thankful for kindness and show gratitude for virtue "
+    romaji: "Hō’on shatoku"
+    kanji: "法恩謝徳"
+    src: calligraphy/2015-8.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "26"
+  - id: 27
+    title: "No separation between stillness and motion "
+    romaji: "Dōjō ma nashi "
+    kanji: "動静間無 "
+    src: calligraphy/2015-3.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "27"
+  - id: 28
+    title: "Body and mind are one"
+    romaji: "Shinjin ichinyo "
+    kanji: "身心一如"
+    src: calligraphy/2015-4.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "28"
+  - id: 29
+    title: "Marvelous path of nonduality"
+    romaji: "Fuji myōdō "
+    kanji: "不二妙道"
+    src: calligraphy/2015-1.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "29"
+  - id: 30
+    title: "Vimalakirti’s single silence is like a hundred claps of thunder"
+    romaji: "Ichimoku hyakurai no gotoshi"
+    kanji: "一黙如百雷"
+    src: calligraphy/2015-2.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "30"
+  - id: 31
+    title: "Storehouse of All Virtues Samadhi"
+    romaji: "Issai tokuzō zanmai"
+    kanji: "一切德藏三昧"
+    src: calligraphy/storehouse1.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "31"
+  - id: 32
+    title: "Empty space preaches the Buddha dharma"
+    romaji: "Kokū kore Buppō o toku"
+    kanji: "虚空是説佛法"
+    src: calligraphy/empty4.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "32"
+  - id: 33
+    title: "Neither exhaust the conditioned nor abide in the unconditioned"
+    romaji: "Umu o tsukusazu, mui ni jūsezu"
+    kanji: "不盡有無不住無為"
+    src: calligraphy/neither9.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "33"
+  - id: 34
+    title: "Regard the realm of birth and death as though it were a garden"
+    romaji: "Shōjichū ni oite sono no gotoku kansō seyo "
+    kanji: "於生死中如園觀想"
+    src: calligraphy/regard8.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "34"
+  - id: 35
+    title: "The teaching of the exhaustible and the inexhaustible liberation"
+    romaji: "Jin mujin gedatsu no hōmon"
+    kanji: "盡無盡解脱法門"
+    src: calligraphy/teaching6.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "35"
+  - id: 36
+    title: "Recognize the unconditioned nature of all existence"
+    romaji: "Mushō bōnin"
+    kanji: "無生法忍 "
+    src: calligraphy/recognize13.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "36"
+  - id: 37
+    title: "The realm of life and death, just as it is, is nirvana"
+    romaji: "Shōji soku nehan"
+    kanji: "生死即涅槃 "
+    src: calligraphy/realm7.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "37"
+  - id: 38
+    title: "Accept the teaching  joyfully and put it into practice"
+    romaji: "Kangi shinju bugyō"
+    kanji: "歓喜信受奉行"
+    src: calligraphy/accept15.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "38"
+  - id: 39
+    title: "Purity is the Buddha dharma"
+    romaji: "Shōjō kore Buppō"
+    kanji: "清浄是佛法 "
+    src: calligraphy/purity3.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "39"
+  - id: 40
+    title: "Liberation beyond all comprehension "
+    romaji: "Fukashigi gedatsu no hōmon"
+    kanji: "不可思議解脱法門"
+    src: calligraphy/liberation14.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com   
+    figure:
+    - id: "40"
+  - id: 41
+    title: "Seeing all activities as the appearance of illusory flowers in the sky"
+    romaji: "Kūge no mangyō o shū su"
+    kanji: "修空華萬行"
+    src: calligraphy/2014-9.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+    - id: "41"
+  - id: 42
+    title: "permanance(jo); blissful(raku); autonomous(ga); undefiled(jo)"
+    romaji: "Jo Raku Ga Jo "
+    kanji: "常楽我浄 "
+    src: calligraphy/c1.1536.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2014
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+    - id: "42"

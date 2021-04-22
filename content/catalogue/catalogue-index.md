@@ -1,8 +1,8 @@
 ---
-title: Catalogue
+title: Calligraphy
 weight: 100
 type: contents
-class: grid
+class: abstract
 epub: false
 slug: .
 ---
