@@ -1,176 +1,174 @@
 figure_list:
   - id: "1"
-    caption: "Giving a sermon with a single sound"
+    caption: "以一音説法   -  Ichi on o motte seppo su"
     src: calligraphy/c4.1535.jpg
-    credit: chapter 1
+    credit: 
   - id: "2"
-    caption: "The Direct mind is the Pure land "
+    caption: "Jikishin kore jodo  - 直心是浄土 "
     src: calligraphy/c5.1533.bookTitle.jpg
-    credit: chapter 1
+    credit: 
   - id: "3"
-    caption: "Give rise to Bodhicitta"
+    caption: "Ho Tsu BoDai Shin - 發菩提心 "
     src: calligraphy/c7.1528.jpg
-    credit: chapter 1 
+    credit: 
   - id: "4"
-    caption: "Playing freely in the spiritual powers"
+    caption: "Yuge jinzū - 遊戯神通 "
     src: calligraphy/c6.1530.jpg
-    credit: chapter 2 
+    credit: 
   - id: "5"
-    caption: "Mind in perfect tranquility"
+    caption: "I Shin Zen Jaku  - 一 心 禅 寂  "
     src: calligraphy/c1.1540.jpg
-    credit: chapter 2 
+    credit: 
   - id: "6"
-    kanji: "計功多少量彼来処"
+    caption: "Kō no tashō o hakari kano raisho o hakaru - 計功多少量彼来処 "
     src: calligraphy/2014-10.jpg
-    credit: chapter 3 
+    credit: 
   - id: "7"
-    caption: "Your many sins are like frost and dew"
+    caption:  "Shuzai wa sōro no gotoshi - 衆罪如霜露 "
     src: calligraphy/2014-4.jpg
-    credit: chapter 3
+    credit: 
   - id: "8"
-    caption: "Wisdom, like the sun, melts them all away"
+    caption: "Enichi kore o shōjo su - 慧日消除之 "
     src: calligraphy/2014-6.jpg
-    credit: chapter 3
+    credit: 
     label: "Note: couplet with id: 7"
   - id: "9"
-    caption: "Sit straight and contemplate the true form of things "
+    caption: "Tanza shite jissō o nenzu - 端坐念実相 "
     src: calligraphy/2014-7.jpg
-    credit: chapter 3
+    credit: 
   - id: "10"
-    caption: "Continuous mindfulness"
+    caption: "Shōnen sōzoku - 正念相続 "
     src: calligraphy/2014-12.jpg
-    credit: chapter 4
+    credit: 
   - id: "11"
-    caption: "Tranquil extinction is bodhi (Nirvana is awakening)"
+    caption: "Jakumetsu kore bodai  - 寂滅是菩提 "
     src: calligraphy/2014-3.jpg
-    credit: chapter 4
+    credit: 
   - id: "12"
-    caption: "Straightforward mind is the place of practice "
+    caption: "Jiki shin kore dōjō - 直心是道場 "
     src: calligraphy/2014-8.jpg
-    credit: chapter 4
+    credit: 
   - id: "13"
-    caption: "Every step is the place of practice"
+    caption: "Ho ho kore dōjō - 歩歩是道場"
     src: calligraphy/2014-11.jpg
-    credit: chapter 4
+    credit: 
   - id: "14"
-    caption: "Dharma joy, dharma ecstasy"
+    caption: "Ho Ki Zen Etsu - 法喜禅悦 "
     src: calligraphy/c2.1539.jpg
-    credit: chapter 4
+    credit: 
   - id: "15"
-    caption: "One lamp, ten thousand lamps, endless lamps "
+    caption: "Ittō bantō mujintō - 一灯萬灯無尽灯 "
     romanji: "Ittō bantō mujintō "
     kanji: "一灯萬灯無尽灯"
     src: calligraphy/2014-2.jpg
-    credit: chapter 4
+    credit: 
   - id: "16"
-    caption: "Harmony, respect, purity, tranquility"
+    caption: "Wa Kei Sei Jaku  - 和敬清寂 "
     romanji: "Wa Kei Sei Jaku "
     kanji: "和敬清寂"
     src: calligraphy/2014-5.jpg
-    credit: chapter 5 
+    credit: 
   - id: "17"
-    caption: "Though even a thousand eyes look, still it cannot be seen"
+    caption: "Sengen miredomo miezu  - 千眼看不見 "
     src: calligraphy/2014-1.jpg
-    credit: chapter 5 
+    credit: 
   - id: "18"
-    caption: "lllness has no form and cannot be seen"
+    caption: "Yamai wa mugyō, miru bekarazu - 病無形不可見 "
     src: calligraphy/2014-14.jpg
-    credit: chapter 5
+    credit: 
   - id: "19"
-    caption: "The four major elements have no master, and the body has no “I”"
+    caption: "Shidai shu nashi, shin mo mata muga nari - 四大無主身亦無我 "
     src: calligraphy/2014-13.jpg
-    credit: chapter 5 
+    credit:
   - id: "20"
-    caption: "Realize the nonbirth and nonextinction of all things."
+    caption: "Mushō bōnin - 無生法忍"
     src: calligraphy/2015-5.jpg
-    credit: chapter 6 
+    credit: 
   - id: "21"
-    caption: "Thought after thought is not separate from mind"
+    caption: "Nen nen furi shi - 念念不 "
     src: calligraphy/2015-10.jpg
-    credit: chapter 6 
+    credit: 
   - id: "22"
-    caption: "Sentient beings are numberless, I vow to liberate them all"
+    caption:  "Shujō muhen seigan do - 衆生無辺誓願度 "
     src: calligraphy/2015-7.jpg
-    credit: chapter 6 
+    credit: 
   - id: "23"
-    caption: "To enter the stage of the Tathagata in a single leap "
+    caption: "Icchō jikinyū nyoraiji - 一超直入如来地 "
     src: calligraphy/2015-6.jpg
-    credit: chapter 7 
+    credit: 
   - id: "24"
-    caption: "Seek enlightenment and liberate sentient beings"
-    romanji: "Gubodai Keshujō "
-    kanji: "求菩提化衆生"
+    caption:  "Gubodai Keshujō - 求菩提化衆生 "
     src: calligraphy/2015-9.jpg
-    credit: chapter 7 
+    credit: 
   - id: "25"
-    caption: "Empty-handed, I hold a spade; walking, I ride an ox "
+    caption:  "Kūshu ni shite jotō o toru - 空手把鋤 "
     src: calligraphy/2015-11.jpg
-    credit: chapter 8 
+    credit: 
   - id: "26"
-    caption: "Be thankful for kindness and show gratitude for virtue "
+    caption: "Hō’on shatoku - 法恩謝徳 "
     src: calligraphy/2015-8.jpg
-    credit: chapter 8 
+    credit: 
   - id: "27"
-    caption: "No separation between stillness and motion "
+    caption: "Dōjō ma nashi - 動静間無  "
     src: calligraphy/2015-3.jpg
-    credit: chapter 8 
+    credit: 
   - id: "28"
-    caption: "Body and mind are one"
+    caption: "Shinjin ichinyo  - 身心一如 "
     src: calligraphy/2015-4.jpg
-    credit: chapter 9 
+    credit: 
   - id: "29"
-    caption: "Marvelous path of nonduality"
+    caption:  "Fuji myōdō - 不二妙道 "
     src: calligraphy/2015-1.jpg
-    credit: chapter 9 
+    credit: 
   - id: "30"
-    caption: "Vimalakirti’s single silence is like a hundred claps of thunder"
+    caption: "Ichimoku hyakurai no gotoshi - 一黙如百雷 "
     src: calligraphy/2015-2.jpg
-    credit: chapter 9 
+    credit: 
   - id: "31"
-    caption: "Storehouse of All Virtues Samadhi"
+    caption: "Issai tokuzō zanmai - 一切德藏三昧 "
     src: calligraphy/storehouse1.jpg
-    credit: chapter 10 
+    credit: 
   - id: "32"
-    caption: "Empty space preaches the Buddha dharma"
+    caption: "Kokū kore Buppō o toku - 虚空是説佛法 "
     src: calligraphy/empty4.jpg
-    credit: chapter 11  
+    credit: 
   - id: "33"
-    caption: "Neither exhaust the conditioned nor abide in the unconditioned"
+    caption: "Umu o tsukusazu, mui ni jūsezu - 不盡有無不住無為 "
     src: calligraphy/neither9.jpg
-    credit: chapter 11 
+    credit: 
   - id: "34"
-    caption: "Regard the realm of birth and death as though it were a garden"
+    caption: "Shōjichū ni oite sono no gotoku kansō seyo - 於生死中如園觀想 "
     src: calligraphy/regard8.jpg
-    credit: chapter 11 
+    credit: 
   - id: "35"
-    caption: "The teaching of the exhaustible and the inexhaustible liberation"
+    caption:  "Jin mujin gedatsu no hōmon - 盡無盡解脱法門 "
     src: calligraphy/teaching6.jpg
-    credit: chapter 11 
+    credit: 
   - id: "36"
-    caption: "Recognize the unconditioned nature of all existence"
+    caption:  "Mushō bōnin - 無生法忍  "
     src: calligraphy/recognize13.jpg
-    credit: chapter 12 
+    credit: 
   - id: "37"
-    caption: "The realm of life and death, just as it is, is nirvana"
+    caption: "Shōji soku nehan - 生死即涅槃  "
     src: calligraphy/realm7.jpg
-    credit: chapter 12 
+    credit: 
   - id: "38"
-    caption: "Accept the teaching  joyfully and put it into practice"
+    caption:  "Kangi shinju bugyō - 歓喜信受奉行 "
     src: calligraphy/accept15.jpg
-    credit: chapter 12 
+    credit: 
   - id: "39"
-    caption: "Purity is the Buddha dharma"
+    caption: "Shōjō kore Buppō - 清浄是佛法  "
     src: calligraphy/purity3.jpg
-    credit: chapter 13 
+    credit: 
   - id: "40"
-    caption: "Liberation beyond all comprehension "
+    caption: "Fukashigi gedatsu no hōmon - 不可思議解脱法門 "
     src: calligraphy/liberation14.jpg
-    credit: chapter 14 
+    credit: 
   - id: "41"
-    caption: "Seeing all activities as the appearance of illusory flowers in the sky"
+    caption: "Kūge no mangyō o shū su - 修空華萬行 "
     src: calligraphy/2014-9.jpg
-    credit: chapter 5
+    credit: 
   - id: "42"
-    caption: "permanance; blissfull; autonomous; undefiled"
+    caption: "Jo Raku Ga Jo  - 常楽我浄  "
     src: calligraphy/c3.1536.jpg
     credit:

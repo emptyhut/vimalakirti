@@ -9,7 +9,7 @@
 
 baseURL: ""
 
-title: "Quire OneDropZen"
+title: "Quire OneDrop Zen"
 languageCode: "en-us"
 theme: "default"
 publishDir: site
@@ -46,8 +46,8 @@ params:
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
-  figureLabelLocation: below # below | on-top
-  figureModal: false
+  figureLabelLocation: on-top # below | on-top
+  figureModal: true
   figureModalIcons: true
   figureZoom: true
   citationPopupStyle: text # text | icon

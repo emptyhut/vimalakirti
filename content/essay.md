@@ -54,3 +54,4 @@ Calligraphy has always played a role in Japanese tea ceremony. This ceremony is 
 
 Earlier it was mentioned that each calligraphy is rendered in a single moment--a moment in which the calligrapher becomes one with the brush. It is this immediacy that the calligraphy at its best can translate to the viewer: an opportunity to be in the moment and at one with the image as you experience it. This book of Shodo Harada Roshi’s work is offered in that spirit. Read it continuously, or open it randomly when it calls to you. Either way, the hope
 is that you will encounter the feeling and energy that is central to Shodo Harada Roshi’s mastery of shodo. His calligraphies, along with his wise commentaries on the subjects depicted, reflect the spirit and delight at the heart of his approach to zen; and they are an invitation to explore life lived unencumbered by presumption and expectation--lived in the living.
+{{< q-cite  "Shodo 2010" "page 1">}}
