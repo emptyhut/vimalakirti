@@ -588,3 +588,17 @@ object_list:
     link: https://www.tahomazenmonastery.com
     figure:
     - id: "42"
+  - id: 43
+    title: "Every footstep is the place of practice"
+    romaji: "Ho-ho kore dōjō"
+    kanji: "虚心是我師"
+    src: calligraphy/msWB111.jpg
+    sutra: Chapter 1, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2001
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+    - id: "43"
