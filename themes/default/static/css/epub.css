@@ -385,6 +385,11 @@ figure {
     margin-top: .5em;
     font-size: 0.9rem; }
 
+/* figure labels */
+.quire-figure__label {
+  font-weight: bold;
+  margin-right: .5em; }
+
 table {
   width: 100%; }
 

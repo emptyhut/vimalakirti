@@ -229,7 +229,7 @@ object_list:
     romaji: "Sengen miredomo miezu "
     kanji: "千眼看不見"
     src: calligraphy/2014-1.jpg
-    sutra: Chapter 1, paragraph 10-12
+    sutra: Chapter 5, paragraph 10-12
     artist: Taigan Shodo Roshi
     year: 2014
     medium: Sumi ink on paper
@@ -257,7 +257,7 @@ object_list:
     romaji: "Shidai shu nashi, shin mo mata muga nari "
     kanji: "四大無主身亦無我"
     src: calligraphy/2014-13.jpg
-    sutra: Chapter 1, paragraph 10-12
+    sutra: Chapter 5, verse 10-12
     artist: Taigan Shodo Roshi
     year: 2014
     medium: Sumi ink on paper
@@ -602,3 +602,17 @@ object_list:
     link: https://www.tahomazenmonastery.com
     figure:
     - id: "43"
+  - id: 44
+    title: "Harmony, respect, purity, tranquillity"
+    romaji: "Wa kei sei jaku"
+    kanji: "和敬清寂"
+    src: calligraphy/msWB111.jpg
+    sutra: Chapter 5, paragraph 10-12
+    artist: Taigan Shodo Roshi
+    year: 2001
+    medium: Sumi ink on paper
+    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: SogenJi, OKayama, Japan
+    link: https://www.tahomazenmonastery.com
+    figure:
+    - id: "44"
