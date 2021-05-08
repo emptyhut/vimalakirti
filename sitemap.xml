@@ -1,223 +1,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/contents/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/contents/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/intro/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/intro/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/essay/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/essay/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/1/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/2/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/3/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/3/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/4/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/4/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/5/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/5/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/6/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/6/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/7/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/7/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/8/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/8/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/9/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/9/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/10/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/10/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/11/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/11/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/12/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/12/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/13/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/13/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/14/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/14/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/15/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/15/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/16/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/16/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/17/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/17/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/18/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/18/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/19/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/19/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/20/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/20/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/21/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/21/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/22/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/22/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/23/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/23/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/24/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/24/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/25/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/25/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/26/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/26/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/27/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/27/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/28/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/28/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/29/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/29/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/30/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/30/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/31/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/31/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/32/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/32/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/33/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/33/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/34/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/34/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/35/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/35/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/36/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/36/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/37/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/37/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/38/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/38/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/39/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/39/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/40/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/40/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/41/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/41/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/42/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/42/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/43/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/43/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/catalogue/44/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/catalogue/44/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/sutra/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/sutra/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/contributors/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/contributors/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/sutra/intro/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/sutra/chapter1/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/bibliography/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/sutra/intro/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/bibliography/</loc>
   </url>
   
   <url>
-    <loc>//localhost:1313/sutra/chptr5/</loc>
+    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gettypubs.github.io/quire-starter/sutra/chptr5/</loc>
   </url>
   
 </urlset>
