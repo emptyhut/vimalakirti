@@ -1,5 +1,5 @@
 ---
-title: The VImalakirti Sutra
+title: The Vimalakirti Sutra
 weight: 200
 type: contents
 class: abstract
