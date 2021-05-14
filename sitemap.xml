@@ -205,15 +205,15 @@
   </url>
   
   <url>
-    <loc>https://emptyhut.github.io/vimalakirti/sutra/chapter1/</loc>
-  </url>
-  
-  <url>
     <loc>https://emptyhut.github.io/vimalakirti/sutra/intro/</loc>
   </url>
   
   <url>
     <loc>https://emptyhut.github.io/vimalakirti/bibliography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://emptyhut.github.io/vimalakirti/sutra/chapter1/</loc>
   </url>
   
   <url>
@@ -226,6 +226,10 @@
   
   <url>
     <loc>https://emptyhut.github.io/vimalakirti/sutra/chapter6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://emptyhut.github.io/vimalakirti/sutra/chapter7/</loc>
   </url>
   
 </urlset>
